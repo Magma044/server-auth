@@ -1,0 +1,26 @@
+html{
+    font-family: Arial;
+}
+
+h1{
+    text-align: center;
+}
+
+form{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 30%;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+label{
+    margin-top: 5px;
+}
+
+input[type="submit"]{
+    margin: 10px auto;
+    width: 50%;
+}
